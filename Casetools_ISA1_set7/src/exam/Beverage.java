@@ -13,5 +13,9 @@ public class Beverage {
 		System.out.println("tea is "+tea.type);
 		
 	}
-
+	
+String getBeverage()
+{
+	return type;
+}
 }
