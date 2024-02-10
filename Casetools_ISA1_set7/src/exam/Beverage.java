@@ -14,9 +14,8 @@ public class Beverage {
 		
 	}
 	
-	String Beverage()
-	{
-		return type;
-	}
-
+String getBeverage()
+{
+	return type;
+}
 }
